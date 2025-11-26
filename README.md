@@ -2,40 +2,55 @@
 
 A full-stack web application that helps users create, enhance, and download professional resumes using AI.
 
-# ✨ Features
+---
 
-Create resumes with live preview
+## ✨ Features
+- Create resumes with live preview  
+- Enhance resume content using AI  
+- Upload & improve existing resumes  
+- Background removal & image optimization  
+- Download resume in PDF format  
+- Fully responsive UI  
 
-Enhance resume content using AI
+---
 
-Upload & improve existing resumes
+## 🌐 Live Demo
+🔗 https://majorproject-smart-ai-powered-64w2.onrender.com
 
-Background removal & image optimization
+---
 
-Download resume in PDF format
+## 🛠 Tech Stack
 
-Fully responsive UI
+### Frontend
+- React.js  
+- Tailwind CSS  
 
-# 🌐 Live Demo
+### Backend
+- Node.js  
+- Express.js  
 
-🔗 Live App: https://majorproject-smart-ai-powered-64w2.onrender.com
+### AI & Image Processing
+- OpenAI API  
+- ImageKit  
+
+### Deployment
+- Render  
+
+---
+
+## 📂 Project Structure
+- /client → Frontend (React + Tailwind)
+- /server → Backend (Node.js + Express)
 
 
-# 🛠 Tech Stack
+---
 
-Frontend: React.js, Tailwind CSS
-Backend: Node.js, Express.js
-AI: OpenAI API
-Image Processing: ImageKit
-Deployment: Render
+## ⚙️ Installation & Setup
 
-# 📂 Project Structure
-/client   → Frontend (React + Tailwind)
-/server   → Backend (Node.js + Express)
-
-# ⚙️ Installation & Setup
+```bash
 # Clone the repository
-git clone <your-repo-link>
+git clone <MajorProject-Smart-AI-Powered-ResumeBuilder
+>
 
 # Frontend setup
 cd client
@@ -46,6 +61,7 @@ npm start
 cd server
 npm install
 npm start
+
 
 # 📄 Output
 
