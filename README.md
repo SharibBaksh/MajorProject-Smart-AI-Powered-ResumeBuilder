@@ -79,5 +79,7 @@ This project provides a complete AI-powered solution for modern resume building 
 # 👤 Author
 
 Sharib Baksh
+
 Full-Stack Web Developer
+
 📍 India
