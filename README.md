@@ -49,8 +49,7 @@ A full-stack web application that helps users create, enhance, and download prof
 
 ```bash
 # Clone the repository
-git clone <MajorProject-Smart-AI-Powered-ResumeBuilder
->
+git clone <MajorProject-Smart-AI-Powered-ResumeBuilder>
 
 # Frontend setup
 cd client
@@ -62,6 +61,7 @@ cd server
 npm install
 npm start
 
+```
 
 # 📄 Output
 
